@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+discovery-*
+my_profile.json
+profile.md
+applications-log.md

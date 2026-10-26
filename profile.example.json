@@ -1,0 +1,13 @@
+{
+  "_comment": "Copy to my_profile.json and edit. Any key you leave out keeps its default (shown here).",
+  "needs_sponsorship": true,
+  "us_citizen_or_clearance_ok": false,
+  "max_years_required": 2,
+  "allow_phd_roles": false,
+  "us_only": true,
+  "include_internships": true,
+  "skip_account_portal_ats": true,
+  "title_include_extra": [],
+  "title_exclude_extra": [],
+  "exclude_companies": []
+}
